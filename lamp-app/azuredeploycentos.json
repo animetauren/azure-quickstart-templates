@@ -49,6 +49,7 @@
       "type": "string",
       "defaultValue": "7.1",
       "allowedValues": [
+        "7.1",
         "7.0",
         "6.6"
       ],
