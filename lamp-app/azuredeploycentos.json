@@ -202,7 +202,7 @@
         "typeHandlerVersion": "1.2",
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/animetauren/azure-quickstart-templates/master/lamp-app/azuredeployubuntu.json"
+            "https://raw.githubusercontent.com/animetauren/azure-quickstart-templates/master/lamp-app/install_lamp_centOS.sh"
           ],
           "commandToExecute": "[concat('sh install_lamp_centOS.sh ', parameters('mySqlPassword'))]"
         }
